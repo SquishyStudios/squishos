@@ -1,0 +1,2 @@
+# squishos
+Random Os
